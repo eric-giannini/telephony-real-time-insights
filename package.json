@@ -1,0 +1,14 @@
+{
+  "name": "telephony-real-time-insight-transcription",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "dotenv": "8.2.0",
+    "symbl-node": "1.0.10"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
